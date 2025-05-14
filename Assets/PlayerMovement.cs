@@ -13,14 +13,25 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private LayerMask groundLayer;
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
     {
-        
+    horizontal = Input.GetAxisRaw("Horizontal");
+    }
+    private void FixedUpdate()
+    {
+        rb.velocity = new Vector2(horizontal * speed,rb.velocity.y);
+    }
+
+    private void Flip()
+
+    {
+    if (isFacingRight && horizontal < 0f || !isfaceingRight && horizontal > 0f)
+        {
+            isFaceingRight = !isFaceingRight;
+            Vector3
+        }
+
     }
 }
