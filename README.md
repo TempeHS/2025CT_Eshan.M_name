@@ -1,17 +1,16 @@
 # Project Title
 
-Esh2tech on scooter
+Scooter Ascent
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Inspired by real life adventures, Scooter Ascent puts players in the seat of a high performance electric scooter, navigating treachourous terrain and testing limits of speed balance and control. From steep hills and razor sharp mountain ridges. This game tests your riding skills in extreame environments. 
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+Operating system:Windows 10 or later (64-bit)
 
 ### Installing
 
