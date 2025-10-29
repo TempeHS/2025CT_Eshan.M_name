@@ -4,7 +4,7 @@ Scooter Ascent
 
 ## Description
 
-Inspired by real life adventures, Scooter Ascent puts players in the seat of a high performance electric scooter, navigating treachourous terrain and testing limits of speed balance and control. From steep hills and razor sharp mountain ridges. This game tests your riding skills in extreame environments. 
+Inspired by real life adventures, Scooter Ascent puts players in the seat of a high performance electric scooter, navigating treachourous terrain and testing limits of speed balance and control. From steep hills and razor sharp mountain ridges. This game tests your riding skills in extreame environments.This game was created to test the users ability on a source of transportation that are not frequently used  
 
 ## Getting Started
 
