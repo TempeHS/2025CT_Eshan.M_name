@@ -4,9 +4,13 @@ Scooter Ascent
 
 ## Description
 
-Inspired by real life adventures, Scooter Ascent puts players in the seat of a high performance electric scooter, navigating treachourous terrain and testing limits of speed balance and control. From steep hills and razor sharp mountain ridges. This game tests your riding skills in extreame environments.This game was created to test the users ability on a source of transportation that are not frequently used  
+Inspired by real life adventures, Scooter Ascent puts players in the seat of a high performance electric scooter, navigating treachourous terrain and testing limits of speed balance and control. From steep hills and razor sharp mountain ridges. This game tests your riding skills in extreame environments.This game was created to test the users ability on a source of transportation that is not frequently used  
 
-## Getting Started
+## Game Object 
+The game object in Scooter Ascent is a electric scooter designed for extreme terrain. It serves as the player's primary mode of transportation, capable of navigating steep inclines,narrow ridges, and unpredictable surfaces. The scooter is equipped with responsive 
+controls that challenge the players balance speed and speed management. As players progress, they can unlock upgrades to enhance the scooter’s performance and handling. Mastery of the game object is essential to conquering the toughest courses and achieving top scores.
+
+
 
 ### Dependencies
 
@@ -19,7 +23,7 @@ Operating system:Windows 10 or later (64-bit)
 
 ### Executing program
 
-* How to run the program
+* How to run the programm
 * Step-by-step bullets
 ```
 code blocks for commands
